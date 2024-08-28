@@ -1,0 +1,148 @@
+"cities": [
+    {
+      "name": "Porto",
+      "latitude": 41.1579,
+      "longitude": -8.6291
+    },
+    {
+      "name": "Marrakesh",
+      "latitude": 31.6295,
+      "longitude": -7.9811
+    },
+    {
+      "name": "Essaouira",
+      "latitude": 31.5085,
+      "longitude": -9.7595
+    },
+    {
+      "name": "Rome",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Vatican City",
+      "latitude": 41.9029,
+      "longitude": 12.4534
+    },
+    {
+      "name": "Geneva",
+      "latitude": 46.2044,
+      "longitude": 6.1432
+    },
+    {
+      "name": "Bucharest",
+      "latitude": 44.4268,
+      "longitude": 26.1025
+    },
+    {
+      "name": "Timișoara",
+      "latitude": 45.7489,
+      "longitude": 21.2087
+    },
+    {
+      "name": "Brașov",
+      "latitude": 45.6579,
+      "longitude": 25.6012
+    },
+    {
+      "name": "Iași",
+      "latitude": 47.1585,
+      "longitude": 27.6014
+    },
+    {
+      "name": "Focșani",
+      "latitude": 45.6968,
+      "longitude": 27.1838
+    },
+    {
+      "name": "Temerin",
+      "latitude": 45.4056,
+      "longitude": 19.8897
+    },
+    {
+      "name": "Prague",
+      "latitude": 50.0755,
+      "longitude": 14.4378
+    },
+    {
+      "name": "Novi Sad",
+      "latitude": 45.2671,
+      "longitude": 19.8335
+    },
+    {
+      "name": "Belgrade",
+      "latitude": 44.7866,
+      "longitude": 20.4489
+    },
+    {
+      "name": "Niš",
+      "latitude": 43.3209,
+      "longitude": 21.8958
+    },
+    {
+      "name": "Budapest",
+      "latitude": 47.4979,
+      "longitude": 19.0402
+    },
+    {
+      "name": "Kecskemét",
+      "latitude": 46.8964,
+      "longitude": 19.6897
+    },
+    {
+      "name": "Wien",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    {
+      "name": "Amsterdam",
+      "latitude": 52.3676,
+      "longitude": 4.9041
+    },
+    {
+      "name": "Berlin",
+      "latitude": 52.5200,
+      "longitude": 13.4050
+    },
+    {
+      "name": "Subotica",
+      "latitude": 46.1000,
+      "longitude": 19.6667
+    },
+    {
+      "name": "Ljubljana",
+      "latitude": 46.0569,
+      "longitude": 14.5058
+    },
+    {
+      "name": "Sarajevo",
+      "latitude": 43.8563,
+      "longitude": 18.4131
+    },
+    {
+      "name": "Zagreb",
+      "latitude": 45.8150,
+      "longitude": 15.9819
+    },
+    {
+      "name": "Athens",
+      "latitude": 37.9838,
+      "longitude": 23.7275
+    },
+    {
+      "name": "Tivat",
+      "latitude": 42.4347,
+      "longitude": 18.7060
+    },
+    {
+      "name": "Budva",
+      "latitude": 42.2864,
+      "longitude": 18.8408
+    },
+    {
+      "name": "Kotor",
+      "latitude": 42.4247,
+      "longitude": 18.7712
+    }
+  ]
+}
